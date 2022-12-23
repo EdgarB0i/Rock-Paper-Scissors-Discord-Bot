@@ -115,7 +115,7 @@ async def send_message(message, user_message, is_private,member,moves):
 
 #running discord bot.
 def run_discord_bot():
-    TOKEN = 'MTA1MzI0MTkwMzM2MzEzMzUzMQ.GJS3br.x32xEtbpeNC7wduRQ_V_QGdMPeSq8vTYVrYp3Y'
+    TOKEN = 'enter token here'
     #declaring intents as true, using default intents and calling the discord Client. client.user is the bot itself.
     
 
